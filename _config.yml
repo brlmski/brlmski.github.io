@@ -3,6 +3,6 @@ highlighter: rouge
 markdown: kramdown
 url: http://brlmski.github.io
 title: eternalstats
-tagline: information (and hopefully tools (soon™)) for Eternal Card Game by brlmski
+tagline: information and tools (soon™) for Eternal Card Game by brlmski
 description: The ruminations of one Eternal player trying to look at the bigger picture
 paginate: 5
