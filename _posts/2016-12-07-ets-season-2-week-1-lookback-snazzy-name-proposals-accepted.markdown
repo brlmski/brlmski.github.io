@@ -41,7 +41,7 @@ As we can see, Stonescar Burn, as well as Midrange, showed up in force, comprisi
 As we can see, Stonescar Burn posted an impressive day with 3 players finishing with a top record. Overall, Stonescar Burn decks posted a 21-10 record or a 68% win rate. Stonescar Midrange on the other hand, not only had a 9-17 record, none of its pilots finished with a winning record. Impressively, we can see that Combrei and Rakano a relatively large number of decks on top compared to how much was brought to the tournament. 
 
 
-#Top 8
+# Top 8
 Let's take a quick look at the top 8 before diving into individual decklists
 
 | Player     | Deck              | Place  |
