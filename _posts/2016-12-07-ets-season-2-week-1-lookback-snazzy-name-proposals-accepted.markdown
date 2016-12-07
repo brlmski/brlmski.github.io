@@ -104,7 +104,7 @@ On the other hand, MillerTool chose to bring a "Rakano Plate" variant, abusing t
 
 # Wrap up
 
-I was going to go in depth for the remaining 5 decks as well, but I can feel the quality of this article going to shit already. Apologies to Ilyak1986, Rourke, Crispah, and rewind. So overall, Stonescar Burn was as much of a monster as we expected going in. I don't have time this week to crunch individual MU %s for the deck, but perhaps starting next week I can add that to the docket for this series (probably not unless I figure out a way to automate everything. Though I did just discover the challonge log). 
+I was going to go in depth for the remaining 5 decks as well, but this is already long and I can feel the quality of this article going to shit. Apologies to Ilyak1986, Rourke, Crispah, and rewind. So overall, Stonescar Burn was as much of a monster as we expected going in. I don't have time this week to crunch individual MU %s for the deck, but perhaps starting next week I can add that to the docket for this series (probably not unless I figure out a way to automate everything. Though I did just discover the challonge log). 
 
 
 
