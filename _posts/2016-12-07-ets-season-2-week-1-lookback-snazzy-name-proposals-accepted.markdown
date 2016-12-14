@@ -98,15 +98,10 @@ While Rakano Warcry didn't manage to put any copies in the top 8, it still had a
 
 LocoPojo brought a "Pantsless Rakano" list championed by finalist jaypeg on ladder in the weeks prior to the tournament. The deck, unlike the traditional Rakano Pants lists, eschews most weapons that are often dead draws for more units and removal. This deck has been highly effective and brought LocoPojo to a stellar finish. There's an excellent writeup on the philosophy of the deck by NeonBlonde [here](https://rngeternal.com/2016/11/28/going-deep-new-age-masters/). In the sideboard, LocoPojo chose be in the anti-big things camp, with 4 Vanquish and 2 more Obliterate. He has 3 Protect that pulls double duty in both the Feln and Stonescar matchups and has some weapons that match up well against the field, with Auric Runehammer being excellent against Stonescar Burn and Stonescar Maul perhaps being the funniest card to use against Shimmerpack ever. 
 
-## [MillerTool](http://www.eternaldecks.cards/deck/5E2pSeJZQWSOUoGcocuqAyh)
+## [MillerTool](http://www.eternaldecks.cards/deck/5E2pSeJZQWSOUoGcocuqAy)
 
 On the other hand, MillerTool chose to bring a "Rakano Plate" variant, abusing the interaction between Silverwing Familiar and weapons to out race any and every opponent. This version shaves on the 1 drops, but has Inspire as a turn 1 play. MillerTool came prepeared for Stonescar Burn with a 4 (!) Protect in the main board to complement their aegis lifesteal monster in Silverwing Familiar. Auric Runehammer as well has a tremendous amount of utility against Stonescar Burn, cleanly killing Umbrean Reaper. In the sideboard, MillerTool chose to stock up on the attachment hate, bringing the full 4 Ruin and 4 Furnace Mage, making me wonder what Shimmerpack did to them in a past life. Unfortunately (or fortunately?) for MillerTool, he managed to dodge the Stonescar Burn matchup all tournament. 
 
 # Wrap up
 
-I was going to go in depth for the remaining 5 decks as well, but this is already long and I can feel the quality of this article going to shit. Apologies to Ilyak1986, Rourke, Crispah, and rewind. So overall, Stonescar Burn was as much of a monster as we expected going in. I don't have time this week to crunch individual MU %s for the deck, but perhaps starting next week I can add that to the docket for this series (probably not unless I figure out a way to automate everything. Though I did just discover the challonge log). 
-
-
-
-
-
+I was going to go in depth for the remaining 5 decks as well, but this is already long and I can feel the quality of this article going to shit. Apologies to Ilyak1986, Rourke, Crispah, and rewind. So overall, Stonescar Burn was as much of a monster as we expected going in. I don't have time this week to crunch individual MU %s for the deck, but perhaps starting next week I can add that to the docket for this series (probably not unless I figure out a way to automate everything. Though I did just discover the challonge log).
